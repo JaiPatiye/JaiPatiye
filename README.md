@@ -1,5 +1,5 @@
-Hi. My name is Jai and I am a Data Science enthusiast.I belong to IT engineering background and I always looked towards data as the future for today's tech driven society.
-I work at Analytics Vidhya currently and I had accomplished projects of data collection , data exploration and machine_learning implementations.
+Hi I am Jai, a Data Science enthusiast.Being an IT engineering student, I always considered data as the fuel for today's tech driven society.
+Working at Analytics Vidhya as a data scientist made me aware of the possible implementation of machine learning and deriving robustness for business out of data.
 The goal is to dedicate these new age AI technologies to the world in a more efficient way and get breakthroughs in the tasks that are vital but stands unaccomplished till date.
 
 <!---
